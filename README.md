@@ -1,6 +1,6 @@
 - Ola meu nome é  Marilia
 - Sou Professora da E.E Padrechico
-- Leciono na disciplina de Tecnologia e Inovação.
+- Leciono a disciplina de Tecnologia e Inovação.
   
 
 <!---
